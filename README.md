@@ -56,3 +56,9 @@ Installing Styled Components~
 npm install @mui/styled-engine-sc styled-components
 ```
 <br>
+Installing ESLint and Prettier~
+
+```
+npm install eslint prettier eslint-plugin-react eslint-config-prettier eslint-plugin-prettier --save-dev
+```
+<br>
