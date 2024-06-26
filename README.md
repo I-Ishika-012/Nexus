@@ -49,3 +49,10 @@ Installing MaterialUI and Its Peer Dependencies~
 ```
 npm install @mui/material @emotion/react @emotion/styled react-router-dom
 ```
+<br>
+Installing Styled Components~
+
+```
+npm install @mui/styled-engine-sc styled-components
+```
+<br>
