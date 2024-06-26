@@ -44,3 +44,8 @@ Running The App~
 npm dev run
 ```
 <br>
+Installing MaterialUI and Its Peer Dependencies~
+
+```
+npm install @mui/material @emotion/react @emotion/styled react-router-dom
+```
