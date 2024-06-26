@@ -15,7 +15,6 @@ This project primarily uses ViteJS to set up a development environment for our p
 
 <br>
 <hr>
-<br>
 
 ### Setup and Prerequesites
 
