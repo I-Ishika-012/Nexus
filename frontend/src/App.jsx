@@ -3,21 +3,23 @@ import { useState } from 'react'
 import './App.css'
 import Home from './pages/Home'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { ThemeProvider } from '@mui/material/styles';
-import CssBaseline from '@mui/material/CssBaseline';
-import theme from './styles/theme';
+import { ThemeToggleProvider } from './styles/ThemeContext';
+
+
 
 function App() {
 
   return (
-    <ThemeProvider theme={theme}>
-    <CssBaseline />
+    
+    <ThemeToggleProvider>
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
     </Router>
-    </ThemeProvider>
+    </ThemeToggleProvider>
+   
+
   )
 }
 
