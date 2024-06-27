@@ -42,7 +42,7 @@ export default function SignInSide() {
 
   return (
     <ThemeProvider theme={defaultTheme}>
-      <Grid container component="main" sx={{ height: '50vh', my: 12, justifyContent: 'center', width: '80%', alignItems: 'center' }}>
+      <Grid container component="main" sx={{ height: '50vh', my: 12, mx: 15, justifyContent: 'center', width: '80%', alignItems: 'center' }}>
         <CssBaseline />
         <Grid
           item
