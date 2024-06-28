@@ -71,3 +71,9 @@ Installing MUI Icons
 ```
 npm install @mui/icons-material
 ```
+<br>
+Installing Carousal Library~
+
+```
+npm install react-material-ui-carousel --save
+```
