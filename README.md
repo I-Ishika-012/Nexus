@@ -62,6 +62,7 @@ Installing ESLint and Prettier~
 npm install eslint prettier eslint-plugin-react eslint-config-prettier eslint-plugin-prettier --save-dev
 ```
 <br>
+Installing MUI Icons
 
 ```
 npm install @mui/icons-material
