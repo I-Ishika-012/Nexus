@@ -19,7 +19,7 @@ This project primarily uses ViteJS to set up a development environment for our p
 ### Setup and Prerequesites
 <br>
 Scaffolding Your First Vite Project~
-
+<br>
 <b>
   
 🗒️ Compatibility Note:
