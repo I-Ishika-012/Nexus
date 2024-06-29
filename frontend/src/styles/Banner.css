@@ -1,0 +1,41 @@
+.banner {
+    position: relative;
+    background-image: url('../assets/join.png'); /* Add the correct path to the background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust height as necessary */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .banner-content {
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent background for text */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .banner h1 {
+    font-size: 2.5rem; /* Adjust font size as necessary */
+    margin-bottom: 20px;
+    font-family: Nunito;
+    font-weight: 700;
+  }
+  
+  .get-started-button {
+    background-color: #0073b1; /* LinkedIn blue color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  .get-started-button:hover {
+    background-color: #005f8a; /* Darker blue for hover effect */
+  }
+  
