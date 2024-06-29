@@ -77,3 +77,9 @@ Installing Carousel Library~
 ```
 npm install react-material-ui-carousel --save
 ```
+<br>
+Initializing Node Project~
+
+```
+npm init -y
+```
