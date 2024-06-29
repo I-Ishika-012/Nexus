@@ -83,3 +83,34 @@ Initializing Node Project~
 ```
 npm init -y
 ```
+<br>
+Installing Express~
+
+```
+npm i express
+```
+<br>
+Installing Mongoose~
+
+```
+npm i mongoose
+```
+<br>
+Installing Variable Handler~
+
+```
+npm i dotenv
+```
+<br>
+Installing JWT~
+
+```
+npm i jsonwebtoken
+```
+<br>
+Installing Password Encryptor~
+
+```
+npm i bcryptjs
+```
+<br>
