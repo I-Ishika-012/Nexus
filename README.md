@@ -1,6 +1,8 @@
 # Nexus 
 ## Next Gen Networking &amp; Upskilling App
 
+## WORK IN PROGRESS
+
 🗒️ Note: This project is the intellectual property of Cloud Counselage Pvt. Ltd. Therefore, you are not supposed and advised to share it or use it in your personal projects.
 <br>
 🗒️ Note: Due to unforeseen circumstances I have lost a lot of the project files that were yet to be uploaded. Apologies for the delay to whomsoever following along, the entire will be built again and uploaded soon.  
